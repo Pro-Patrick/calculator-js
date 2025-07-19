@@ -1,0 +1,56 @@
+ How to Use
+Click the number and operator buttons to build a math expression.
+
+Click = to evaluate the expression.
+
+Click C to clear the display.
+
+Invalid expressions will be handled with a clear error message (e.g., “Bad expression!!”).
+
+ Technologies Used
+HTML5
+
+CSS3
+
+JavaScript (Vanilla)
+
+Future Improvements
+Keyboard support
+
+ History log of calculations
+
+🧠 Scientific functions (√, %, ^, etc.)
+
+ Theme toggle (Light/Dark mode)
+
+Inspiration
+This calculator was developed as a beginner-friendly project to strengthen frontend development skills—especially in DOM manipulation, event handling, and logic building using JavaScript.
+
+
+Click the number and operator buttons to build a math expression.
+
+Click = to evaluate the expression.
+
+Click C to clear the display.
+
+Invalid expressions will be handled with a clear error message (e.g., “Bad expression!!”).
+
+ Technologies Used
+ HTML5
+
+ CSS3
+
+JavaScript (Vanilla)
+
+Future Improvements
+Keyboard support
+
+History log of calculations
+
+Scientific functions (√, %, ^, etc.)
+
+Theme toggle (Light/Dark mode)
+
+💡 Inspiration
+This calculator was developed as a beginner-friendly project to strengthen frontend development skills—especially in DOM manipulation, event handling, and logic building using JavaScript.
+
